@@ -1,4 +1,4 @@
-<meta http-equiv="refresh" content="0;URL='https://www.etsy.com/shop/sweetykittystore/'" />
+<meta http-equiv="refresh" content="0;URL='https://google.com'" />
 
 # Redirects...
 
