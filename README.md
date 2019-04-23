@@ -1,3 +1,3 @@
-permalink: https://google.com
+permalink: /CNAME
 # martakovv.github.io
 #Test
