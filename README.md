@@ -1,5 +1,5 @@
 ---
-redirect_from: "https://google.com"
+redirect_to : http://www.github.com
 ---
 
 # martakovv.github.io
