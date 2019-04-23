@@ -1,4 +1,4 @@
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^sweetykitty.store [NC,OR]
-RewriteCond %{HTTP_HOST} ^www.sweetykitty.store [NC]
+RewriteCond %{HTTP_HOST} ^martakovv.github.io [NC,OR]
+RewriteCond %{HTTP_HOST} ^www.martakovv.github.io [NC]
 RewriteRule ^(.*)$ http://google.com [L,R=301,NC]
